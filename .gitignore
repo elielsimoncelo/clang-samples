@@ -1,5 +1,7 @@
 main
 *.out 
+*.dSYM/
+
 # Prerequisites
 *.d
 
